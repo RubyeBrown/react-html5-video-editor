@@ -1,5 +1,5 @@
 {
-  "name": "react-html5-video-editor",
+# "name": "react-html5-video-editor",
   "version": "1.2.0",
   "description": "React component for simple video effects online",
   "main": "./dist/react-html5-video-editor.js",
@@ -55,3 +55,4 @@
     "redux": "^3.5.2"
   }
 }
+ 
